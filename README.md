@@ -1,4 +1,4 @@
-### Crab stock assessment
+### 2023 Crab stock assessment
 This repository contains code used for the 2023 exploratory stock assessment work (data processing and assessment model fitting using Stock Synthesis (SS3)) for the Welsh stock of edible crab (Cancer pagurus).
 
 #### File list
